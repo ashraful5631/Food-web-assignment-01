@@ -109,6 +109,24 @@ Fifth section Start.
     border-radius: 20px;
 }
 /* 
+sixth section Start.
+*/
+#sixth-sction{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    margin: 50px;
+    box-shadow: 6px 6px 30px grey;
+    margin-top: 80px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+}
+#sixth-sction div{
+    text-align: center;
+    padding: 30px;
+    border-left:7px solid orangered;
+    border-radius: 20px;
+}
+/* 
 Footer section Start.
 */
 footer{
