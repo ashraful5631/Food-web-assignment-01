@@ -44,6 +44,8 @@ Second section  Style Start.
     display: flex;
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    width: 100%;
+    height: 435px;
 }
 /* 
 Third section Style Start.
