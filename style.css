@@ -34,8 +34,7 @@ Second section  Style Start.
 (section-div) is a common class used for first and second section. 
 */
 #second-section img{
-    width: 134%;
-    margin-top: 28px;
+    width: 113%;
 }
 #section-baby-div{
     margin-top: 120px;
